@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nailul. 
+# Hi there, I'm Nailul. 
 
 <img align="right" width=300px alt="" src="https://i.pinimg.com/originals/3d/b9/eb/3db9ebdf4c424b5589fde988eb47c9d1.gif" />
 
