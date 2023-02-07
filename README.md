@@ -15,7 +15,6 @@ I am a web developer and have had a career since August 2022. Java Script, PHP, 
   - Next Js.
   - Vue Js.
   - Node Js.
-- I'm looking forward to collaborating on open-source projects.
 - Outside of work, I usually play games to pass my spare time and learn new things.
 - You can contact me via this email: <a href="nailulforbusiness@gmail.com">nailulforbusiness@gmail.com</a>
 
