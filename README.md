@@ -6,15 +6,6 @@
 
 I am a web developer and have had a career since August 2022. Java Script, PHP, and Node Js are the programming languages that I usually use for projects outside the office. For inside my office, I usually use PHP, Dart, and Java. What's interesting about me is NOTHING.
 * I am interested in Web development and Android/IOS development.
-- I’m currently learning.
-  - Java.
-  - Flutter.
-  - Dart.
-  - Spring Boot.
-  - React Js.
-  - Next Js.
-  - Vue Js.
-  - Node Js.
 - Outside of work, I usually play games to pass my spare time and learn new things.
 - You can contact me via this email: <a href="nailulforbusiness@gmail.com">nailulforbusiness@gmail.com</a>
 
