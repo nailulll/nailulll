@@ -3,7 +3,7 @@
 I build scalable web applications with clean code and intuitive user experiences. Based in Indonesia, I focus on bridging the gap between robust backend logic and interactive frontend interfaces.
 
 # 💻 Tech Stack:
-#### Framework & Library
+#### Framework
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
