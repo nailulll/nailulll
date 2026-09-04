@@ -11,9 +11,6 @@ I build scalable web applications with clean code and intuitive user experiences
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 #### Language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -29,4 +26,4 @@ I build scalable web applications with clean code and intuitive user experiences
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### 📫 Connect with Me
-[💼 LinkedIn](https://linkedin.com/in/nailul-ngafwa-67326823a) • [🌐 My Portfolio](https://nailulngafwa.web.id) • [📧 Email Me](mailto:nailulforbusiness@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/nailul-ngafwa-67326823a) • [🌐 My Portfolio](https://nailul.my.id) • [📧 Email Me](mailto:nailulforbusiness@gmail.com)
